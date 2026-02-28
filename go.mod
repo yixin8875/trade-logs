@@ -36,6 +36,3 @@ require (
 	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
 )
-
-// replace github.com/wailsapp/wails/v2 v2.11.0 => /Users/boohee/GoPath/pkg/mod
-replace github.com/mattn/go-sqlite3 => /Users/boohee/GoPath/pkg/mod/github.com/mattn/go-sqlite3@v1.14.22
